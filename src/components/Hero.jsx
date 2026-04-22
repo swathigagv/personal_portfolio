@@ -12,7 +12,7 @@ export default function Hero(){
             <h3>Frontend Developer | React.js Developer</h3>
             <p > I build responsive, scalable web applications with clean UI and real-world functionality.
             </p>
-            <a href='/Swathiga_GV_Frontend_Web_Developer' download className='btn'>Download Resume</a>
+            <a href='/Swathiga_GV_Frontend_Developer' download className='btn'>Download Resume</a>
             </div>
         </section>
         </>
