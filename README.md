@@ -56,7 +56,7 @@ I am **Swathiga**, a Frontend Developer specializing in **React.js** and modern 
 
 | Category   | Technologies                              |
 |------------|-------------------------------------------|
-| Frontend   | React.js, JavaScript (ES6+), HTML5, CSS3 |
+| Frontend   | React.js, JavaScript (ES6+), HTML5, CSS3, Figma |
 | Styling    | CSS Modules, Custom Global CSS, Bootstrap |
 | Backend    | PHP, MySQL                                |
 | Cloud      | AWS EC2, S3, IAM, CloudWatch              |
